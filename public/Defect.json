@@ -1,0 +1,11 @@
+[
+    {"defcat":"UI","desc":"Submit button coming to the extreme left","priority":2,"status":"Open"},
+    {"defcat":"Validation","desc":"Confirmation dialog box for add employee","priority":3,"status":"Open"},
+    {"defcat":"UI","desc":"Footer change font","priority":2,"status":"Open"},
+    {"defcat":"Process","desc":"Form Submission","priority":1,"status":"Open"},
+    {"defcat":"CSS","desc":"Change font and bgcolor","priority":4,"status":"Open"}
+
+
+
+    
+     ]
